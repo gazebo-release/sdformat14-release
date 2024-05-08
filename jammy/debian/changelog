@@ -2,7 +2,13 @@ sdformat14 (14.2.0-1~jammy) jammy; urgency=medium
 
   * sdformat14 14.2.0-1 release
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 07 May 2024 18:18:17 +0200
+ -- Ian Chen <ichen@openrobotics.org>  Tue, 23 Apr 2024 17:53:06 +0000
+
+sdformat14 (14.1.1-1~jammy) jammy; urgency=medium
+
+  * sdformat14 14.1.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Thu, 28 Mar 2024 20:33:21 -0500
 
 sdformat14 (14.1.0-1~jammy) jammy; urgency=medium
 
