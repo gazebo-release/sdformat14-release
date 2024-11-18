@@ -1,3 +1,9 @@
+sdformat14 (14.6.0-1~jammy) jammy; urgency=medium
+
+  * sdformat14 14.6.0-1 release
+
+ -- Nate Koenig <natekoenig@gmail.com>  Mon, 18 Nov 2024 13:47:12 +0000
+
 sdformat14 (14.5.0-1~jammy) jammy; urgency=medium
 
   * sdformat14 14.5.0-1 release
