@@ -1,3 +1,9 @@
+sdformat14 (14.9.0-1~noble) noble; urgency=medium
+
+  * sdformat14 14.9.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 30 Jan 2026 04:19:21 +0000
+
 sdformat14 (14.8.0-1~noble) noble; urgency=medium
 
   * sdformat14 14.8.0-1 release
